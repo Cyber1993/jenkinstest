@@ -1,2 +1,3 @@
-echo "git"
+echo "gidgsxmzfhmhfmfhmfhmfhmfhmfhmsfhmfhmxfhmgj,fhkdfgzdfbsffxt"
 ip a
+ls /
