@@ -14,7 +14,7 @@ pipeline {
         }
         stage('SH') {
             steps {
-                bash run.sh
+                sh '''reboot'''
             }    
         }
     }
