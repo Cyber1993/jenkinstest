@@ -9,10 +9,7 @@ pipeline {
         }
       stage('ip') {
             steps {
-                sh 
-              '''
-              bash run.sh
-              '''
+                sh '''bash run.sh'''
             }
         }
     }
