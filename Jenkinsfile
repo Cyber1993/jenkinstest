@@ -12,5 +12,10 @@ pipeline {
                 echo "hello"
             }    
         }
+        stage('SH') {
+            steps {
+                bash run.sh
+            }    
+        }
     }
 }
