@@ -14,7 +14,7 @@ pipeline {
         }
         stage('SH') {
             steps {
-                sh bash run.sh
+                sh '''bash run.sh'''
             }    
         }
     }
