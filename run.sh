@@ -2,4 +2,4 @@ echo "gidgsxmzfhmhfmfhmfhmfhmfhmfhmsfhmfhmxfhmgj,fhkdfgzdfbsffxt"
 ip a
 ls /
 apt update
-apt install mc
+apt install mc -y
