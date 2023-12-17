@@ -11,7 +11,7 @@ pipeline {
             steps {
                 sh 
               '''
-              ip a
+              bash run.sh
               '''
             }
         }
