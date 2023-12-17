@@ -2,4 +2,4 @@ echo "gidgsxmzfhmhfmfhmfhmfhmfhmfhmsfhmfhmxfhmgj,fhkdfgzdfbsffxt"
 ip a
 ls /
 apt update
-apt install mc -y
+apt install stress -y
